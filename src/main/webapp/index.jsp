@@ -8,7 +8,7 @@
     <body>
         <h1>Example of Automated DevOps CI/CD</h1>
         <h1>Code Commited:: GitLab -> Jenkins -> Maven -> Nexus</h1>
-        <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Pipeline -> UPDATED</h1>
+        <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Pipeline -> 24-08-2016</h1>
         <h1>First Job is Over:: Jenkins -> Maven -> Sonar</h1>
         <!--GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.-->
     </body>
