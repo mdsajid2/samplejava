@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Build 1</title>
+        <title>Build 2</title>
     </head>
     <body>
         <h1>Example of Automated DevOps CI/CD</h1>
