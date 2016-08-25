@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hi, My First Java Project,  EE 7 Continuous Delivery!</title>
+        <title>Build 1</title>
     </head>
     <body>
         <h1>Example of Automated DevOps CI/CD</h1>
